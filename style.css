@@ -1,23 +1,93 @@
-#links {
-    text-align: center;
+body {
+  background: #d6dcf8;
 }
-#name {
-    text-align: center;
+.links {
+  text-align: center;
 }
-#prof {
-    text-align: center;
+.name {
+  text-align: center;
+  font-size: 36px;
+}
+.prof {
+  text-align: center;
 }
 
-#text {
+.text {
+  font-family: Georgia;
+  font-size: 16px;
+  margin: 0 auto; /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  word-break: break-all;
+}
+.obr {
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 32px;
+}
+hr {
+  size: 2px;
+  color: #000000;
+
+}
+#header {
+  text-align: center;
+  font-family: Georgia;
+  color: #333333;
+  margin-bottom: 32px;
+  
+}
+.header {
+    text-align: center;
+    font-family: Georgia;
+    font-size: 18px;
+     margin-bottom: 10px;
+    border-bottom: none;
+    color: #333333;
+  }
+.header-title {     
+text-align: center;
+font-family: Georgia;
+font-size: 18px;
+margin-bottom: 10px;
+border-bottom: none;
+color: #333333;
+
+}
+#footer {
+    font-family: Georgia;
+    margin-top: 64px; /* center content */ 
+    word-break: break-all;
+    text-align: center;
+}
+#main {
     font-family: Georgia;
     font-size: 16px;
-    margin: 0 auto;   /* center content */
+    margin: 0 auto; /* center content */
     max-width: 800px; /* limit width */
     line-height: 1.5;
     padding-top: 32px;
     padding-bottom: 32px;
     word-break: break-all;
+  }
+.group-item {
+  text-align: center;
 }
-#obr {
-    margin-bottom: 10px
+.group-item a {
+  font-size: 18px;
+  color: #333333;
+}
+ul {
+    text-align: left;
+}
+title {
+    font-size: 10px;
 }
