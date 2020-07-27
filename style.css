@@ -65,6 +65,7 @@ color: #333333;
 #footer {
     font-family: Georgia;
     margin-top: 64px; /* center content */ 
+    max-width: 800px; /* limit width */
     word-break: break-all;
     text-align: center;
 }
