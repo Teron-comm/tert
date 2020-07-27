@@ -42,16 +42,8 @@ hr {
   text-align: center;
   font-family: Georgia;
   color: #333333;
-  margin-bottom: 32px;
   
 }
-.header {
-    text-align: center;
-    font-family: Georgia;
-    font-size: 18px;
-     margin-bottom: 10px;
-    border-bottom: none;
-    color: #333333;
   }
 .header-title {     
 text-align: center;
